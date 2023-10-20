@@ -34,18 +34,19 @@ To get started with this project, follow these steps:
 
 The project is structured as follows:
 
-/src - Contains the source code for the app.
-/components - Custom React components.
-/screens - Screens for the app, including the home screen and other sections.
-/navigation - Navigation-related code, including stack, tab, and drawer navigation.
+/src - Contains the source code for the app.  
+/components - Custom React components.  
+/screens - Screens for the app, including the home screen and other sections.  
+/navigation - Navigation-related code, including stack, tab, and drawer navigation.  
 /assets - Images, icons, and other assets used in the app.
 
 ## Navigation
 
 The app's navigation is a key aspect of this challenge. It demonstrates the following types of navigation:
 
-Stack Navigation: Used for navigating within a particular section of the app like the contact screen.
-Tab Navigation: Allows users to switch between different sections, such as Screen1 and Screen2.
+Stack Navigation: Used for navigating within a particular section of the app like the contact screen.  
+Tab Navigation: Allows users to switch between different sections, such as Screen1 and Screen2.  
 Drawer Navigation: Provides access to the lateral menu for easy navigation to different parts of the app.
 
 ## Video
+https://github.com/alanstib/GeraldChallenge/assets/26580994/73da3503-6318-4140-9d63-230197a0dd7b
